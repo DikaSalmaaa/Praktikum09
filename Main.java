@@ -43,7 +43,7 @@ public class Main {
 
             peminjam2.addAntiDenda();
 
-            System.out.println("Tagihan denda: " + denda2.getTagihan());
+            System.out.println("Tagihan denda: " + denda2.getHapus());
 
             System.out.println("=== Denda ditambahkan ! ===");
 
